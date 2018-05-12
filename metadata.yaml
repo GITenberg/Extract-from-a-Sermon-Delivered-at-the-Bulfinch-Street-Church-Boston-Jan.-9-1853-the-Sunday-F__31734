@@ -1,0 +1,30 @@
+_repo: Extract-from-a-Sermon-Delivered-at-the-Bulfinch-Street-Church-Boston-Jan.-9-1853-the-Sunday-F__31734
+_version: 0.1.0
+alternative_title: Tribute to a Good Man
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gray, Frederick T. (Frederick Turell)
+    alias: Gray, F. T. (Frederick Turell)
+    birthdate: 1804
+    deathdate: 1855
+    gutenberg_agent_id: '35436'
+    url: http://www.gutenberg.org/2009/agents/35436
+description: ''
+gutenberg_issued: '2010-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31734'
+  lccn: '05014704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Lawrence, Amos, 1786-1852'
+title: Extract from a Sermon Delivered at the Bulfinch-Street Church, Boston, Jan.
+  9, 1853, the Sunday Following the Interment of the Late Amos Lawrence
+url: http://www.gutenberg.org/ebooks/31734
