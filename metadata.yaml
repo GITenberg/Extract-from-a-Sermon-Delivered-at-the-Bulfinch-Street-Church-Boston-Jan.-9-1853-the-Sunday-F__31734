@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '35436'
     url: http://www.gutenberg.org/2009/agents/35436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31734#Extract-from-a-Sermon-Delivered-at-the-Bulfinch-Street-Church-Boston-Jan.-9-1853-the-Sunday-F_
 gutenberg_issued: '2010-03-22'
 gutenberg_type: Text
 identifiers:
